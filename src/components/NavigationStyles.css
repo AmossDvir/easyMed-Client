@@ -1,0 +1,29 @@
+.logo-icon {
+  font-size: 50px;
+}
+
+.emergency-tab {
+  background-color: rgb(255, 83, 83);
+}
+
+.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.css-1q39md6-MuiButtonBase-root-MuiButton-root {
+  font-size: large;
+}
+
+.image {
+  width: 100px;
+}
+
+.image2 {
+  width: 300px;
+}
+
+.red-highlight {
+  border-radius: 100%;
+  background: rgb(245,45,45);
+}
+.navbar {
+  background-color: #a7d4b4 !important;
+  position: fixed;
+  z-index: 10;
+}

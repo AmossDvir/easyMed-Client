@@ -1,0 +1,18 @@
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-4.css-gj1fbr-MuiGrid-root{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.field-selector{
+    padding-bottom: 15px !important;
+}
+
+.submit{
+    /* width:50%; */
+    padding-top: 25px !important;
+    align-items: center;
+}
+
+.filters-title{
+}
